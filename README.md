@@ -6,7 +6,7 @@ This mod for UNBEATABLE allows you to save your Arcade Dark Mode setting, and al
 
 ## Compatible game versions
 
-- UNBEATABLE Demo (tested with v1.5.28-contentlock)
+- UNBEATABLE Demo (tested with `v1.5.28-contentlock`)
 
 ## Requirements
 
