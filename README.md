@@ -2,6 +2,8 @@
 
 This mod for UNBEATABLE allows you to save your Arcade Dark Mode setting, and also allows you to go back to normal light mode by entering the Konami Code again. This dark mode is in the base game, but doesn't save between relaunches and can't be undone without restarting the game.
 
+Please note that this mod is unofficial and not endorsed by D-CELL GAMES in any way.
+
 ![UNBEATABLE Arcade Mode in its dark visual style](ArcadeDarkMode.jpg)
 
 ## Compatible game versions
